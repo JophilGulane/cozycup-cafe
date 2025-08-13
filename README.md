@@ -33,7 +33,7 @@ Contacts
 **Name:** Jophil F. Gulane   
 **Email:** jophil.gulane@example.com  
 
-[<img style = "width: 50px;" src="img/Facebook.svg">](https://web.facebook.com/jophil.gulane "Jophil Gulane FB")
+[<img style = "margin-right: 50px;  width: 50px;" src="img/Facebook.svg">](https://web.facebook.com/jophil.gulane "Jophil Gulane FB")
 [<img style = "width: 50px;" src="img/Github.svg">](https://github.com/JophilGulane "Jophil Gulane Github")
 
 
@@ -42,5 +42,5 @@ Contacts
 **Name:** Vougne Froid P. Alis   
 **Email:** vougnefroid.alis@example.com
 
-[<img style = "width: 50px;" src="img/Facebook.svg">](www.facebook.com/vougnefroid.alis19 "Vougne Froid Alis FB")
+[<img style = "margin-right: 50px; width: 50px;" src="img/Facebook.svg">](www.facebook.com/vougnefroid.alis19 "Vougne Froid Alis FB")
 [<img style = "width: 50px;" src="img/Github.svg">](https://github.com/VougneFroid "Vougne Froid Alis Github")
